@@ -150,13 +150,6 @@ GEMINI_API_KEY=your_api_key_here
 * 📄 Export itinerary as PDF
 * 🔐 User authentication
 
-## 👩‍💻 Author
-
-**Roxy Patricia**
-
-B.Tech – Information Technology
-Andhra University
-
 ## 📌 Project
 
 This project was developed as a portfolio project to demonstrate skills in **React, Python, Flask, AI integration, API communication, and prompt engineering**.
